@@ -54,7 +54,7 @@ Each text file has an associated plagiarism label/category:
 
 # Code
 
-This project directory contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
+The project directory contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
 # Run
 
