@@ -17,10 +17,10 @@ This project is broken down into three main notebooks:
 * Select "good" features, by analyzing the correlations between different features.
 * Create train/test `.csv` files that hold the relevant features and class labels for train/test data points.
 
-**Notebook 3: Train and Deploy Your Model in SageMaker**
+**Notebook 3: Train and Deploy the Model in SageMaker**
 
-* Upload your train/test feature data to S3.
+* Upload the train/test feature data to S3.
 * Define a binary classification model and a training script.
-* Train your model and deploy it using SageMaker.
-* Evaluate your deployed classifier.
+* Train the model and deploy it using SageMaker.
+* Evaluate the deployed classifier.
 
