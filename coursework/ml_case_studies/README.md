@@ -12,6 +12,7 @@ The case studies are as follows:
   - [Time-Series Forecasting](https://github.com/wchowdhu/udacity-git-ml-engineer-nanodegree/tree/master/coursework/ml_case_studies/time_series_forecasting) - This case demonstrates how to train SageMaker's DeepAR model for forecasting predictions over time.
 
 # Install
+
 The exercises require Python 3.6 and the following Python libraries installed   
   - [numpy](https://numpy.org/)
   - [pandas](https://pandas.pydata.org/)
@@ -19,7 +20,13 @@ The exercises require Python 3.6 and the following Python libraries installed
   - [scikit-learn](https://scikit-learn.org/stable/)
 
 # Run
-To run and execute the .ipynb files, set up a Notebook instance in the Amazon Sagemaker service and link the instance directly to the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git). 
+
+To open the .ipynb files in your browser, run the following command in terminal:
+```
+jupyter notebook <file_name>.ipynb
+```
+
+To run and execute all the cells in the .ipynb files, set up a Notebook instance in the Amazon Sagemaker service and link the instance directly to the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git). 
 
 
 
