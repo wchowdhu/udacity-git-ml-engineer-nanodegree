@@ -28,7 +28,7 @@ jupyter notebook <file_name>.ipynb
 
 To run and execute all the cells in the .ipynb files, set up a Notebook instance in the Amazon Sagemaker service and link the instance directly to the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git). 
 
-To deploy the model and make the web app interact with the deployed model, you need to implement SageMaker's additional functionalities like Amazon Lambda and API Gateway. The structure for the web app is provided in the diagram > Web App Diagram.svg.
+To deploy the model and make the web app interact with the deployed model, you need to implement SageMaker's additional functionalities like Amazon Lambda and API Gateway. The structure for the web app is provided in the diagram > Web App Diagram.svg
 
 
 
