@@ -7,7 +7,13 @@ The exercises require Python 3.6 and the following Python libraries installed
   - [numpy](https://numpy.org/)
 
 # Run
-To run and execute the .ipynb files, set up a Notebook instance in the Amazon Sagemaker service and link the instance directly to the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git). 
+
+To open the .ipynb files in your browser, run the following command in terminal:
+```
+jupyter notebook <file_name>.ipynb
+```
+
+To run and execute all the cells in the .ipynb files, set up a Notebook instance in the Amazon Sagemaker service and link the instance directly to the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git). 
 
 
 
