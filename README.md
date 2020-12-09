@@ -11,6 +11,6 @@ Project work from the Udacity Machine Learning Engineer Nanodegree 2020 covering
 
 # Prerequisites
 
-  - Python programming knowledge  
+  - Python programming 
   - Knowledge of Machine Learning algorithms
 
