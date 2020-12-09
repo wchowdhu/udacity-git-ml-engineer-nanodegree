@@ -10,9 +10,9 @@ Project work from the Udacity [Machine Learning Engineer Nanodegree 2020](https:
 
 # Projects
 
-  - [P1 - ](url)
-  - [P2 - ](url)
-  - [P3 - ](url)
+  - [Sentiment Analysis Web App](https://github.com/wchowdhu/udacity-git-ml-engineer-nanodegree/tree/master/projects/project_sentiment_analysis)
+  - [Plagiarism Detection](https://github.com/wchowdhu/udacity-git-ml-engineer-nanodegree/tree/master/projects/project_plagiarism_detection)
+  - [Capstone Project](url)
 
 # Coursework
 
