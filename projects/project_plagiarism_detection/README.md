@@ -34,7 +34,7 @@ The latest version of PyTorch library also needs to be installed to implement a 
 
 # Data
 
-The dataset used for this project is a modified version of a [dataset](https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html) created by Paul Clough (Information Studies) and Mark Stevenson (Computer Science), at the University of Sheffiel. The corpus consisting of short (200-300 words) answers to Computer Science questions in which plagiarism has been simulated. This corpus has been designed to represent varying degrees of plagiarism. 
+The dataset used for this project is a modified version of a [dataset](https://ir.shef.ac.uk/cloughie/resources/plagiarism_corpus.html) created by Paul Clough (Information Studies) and Mark Stevenson (Computer Science), at the University of Sheffield. The corpus consisting of short (200-300 words) answers to Computer Science questions in which plagiarism has been simulated. This corpus has been designed to represent varying degrees of plagiarism. 
 
 Each text file is associated with one Task (task A-E) and one Category of plagiarism.
 
