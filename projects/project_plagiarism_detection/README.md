@@ -64,3 +64,15 @@ jupyter notebook <file_name>.ipynb
 ```
 
 To run and execute all the cells in the .ipynb files, set up a Notebook instance in the Amazon Sagemaker service and link the instance directly to the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git).
+
+# Results
+
+I implemented three different classifiers on the same dataset, the evaluation test results are displayed in the table below.
+
+<a id='table'></a>
+
+| Classifier | Training Time | Accuracy |
+| --- | --- | --- |
+| Feedforward Neural Network | 67 seconds | .80 | 
+| LinearLearner | 57 seconds | .96 | 
+| Naive Bayes | 55 seconds | .92 | 
