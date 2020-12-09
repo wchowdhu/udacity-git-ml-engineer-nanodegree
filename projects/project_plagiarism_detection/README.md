@@ -76,3 +76,5 @@ I implemented three different classifiers on the same dataset, the evaluation te
 | Feedforward Neural Network | 67 seconds | .80 | 
 | LinearLearner | 57 seconds | .96 | 
 | Naive Bayes | 55 seconds | .92 | 
+
+Since the data set is small with less than 100 training documents that are fairly distributed over the 2 classes and contains small feature space per sample, simple models like LinearLearner and Naive Bayes classifiers gave better results, as there isn't enough data to estimate many parameters in more complex classifiers like Neural Networks. The LinearLearner performed best, with an accuary of 96%, which means that the learned model is able to separate the two classes of data and effectively output labels as plagiarized or non-plagiarized.
