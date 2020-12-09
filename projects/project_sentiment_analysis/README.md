@@ -9,7 +9,7 @@ The project requires Python 3.6 and the following Python libraries installed
   - [pandas](https://pandas.pydata.org/)
   - [scikit-learn](https://scikit-learn.org/stable/)
 
-The latest version of PyTorch library also needs to be installed to implement the Neural Network model.
+The latest version of [PyTorch](https://pytorch.org/) library also needs to be installed to implement the Neural Network model.
 
 # Data
 
