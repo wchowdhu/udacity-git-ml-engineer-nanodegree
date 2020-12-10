@@ -1,6 +1,6 @@
 # Creating a Sentiment Analysis Web App
 
-The goal of this project is to have a simple web page which a user can use to enter a movie review. The web page will then send the review off to the deployed Recurrent Neural Network model in [Amazon SageMaker](https://aws.amazon.com/sagemaker/) which will predict the sentiment of the entered review. 
+The goal of this project is to have a simple web page which a user can use to enter a movie review. The web page will then send the review off to the deployed Recurrent Neural Network model in [Amazon SageMaker](https://aws.amazon.com/sagemaker/) to predict the sentiment of the entered review. 
 
 # Install
 
