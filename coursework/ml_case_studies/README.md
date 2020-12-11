@@ -21,7 +21,7 @@ The exercises require Python 3.6 and the following Python libraries installed
 
 # Run
 
-To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project directory `ml_case_studies`:
+To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the coursework directory `ml_case_studies/<folder_name>`:
 ```
 jupyter notebook <file_name>.ipynb
 ```
