@@ -14,7 +14,7 @@ To open the .ipynb files in your browser and look at the output of the completed
 jupyter notebook <file_name>.ipynb
 ```
 
-To run and execute all the cells from scratch, you need to create a Jupyter notebook instance in the Amazon Sagemaker service, configure the lifecycle of the notebook, and attache the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git) to the instance. Once set up, you can run the cells to upload the data and save any model artifacts to AWS S3 after fitting the model.  
+To run and execute all the cells from scratch, you need to create a Jupyter notebook instance in the Amazon Sagemaker service, configure the lifecycle of the notebook, and attache the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git) to the instance. Once set up, you can run the cells to upload the data and save any model artifacts of the learned model to AWS S3.  
 
 
 
