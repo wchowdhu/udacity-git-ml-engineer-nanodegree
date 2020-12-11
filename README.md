@@ -2,7 +2,7 @@
 
 Project work from the Udacity [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) Nanodegree 2020 encompassing advanced machine learning algorithms and how to package and deploy models to a production environment. 
 
-  - Content of the coursework is co-created with Kaggle and includes real-world projects covering Machine Learning workflow from data processing and exploration, modeling to deployment.
+  - Content of the coursework is co-created with [Kaggle](https://www.kaggle.com/) and includes real-world projects covering Machine Learning workflow from data processing and exploration, modeling to deployment.
   - Gain practical experience using Amazon SageMaker to deploy trained models to a web application and evaluate the performance of the models.
   - A/B test models and learn how to update the models as more data is gathered, an important skill in industry. 
   
