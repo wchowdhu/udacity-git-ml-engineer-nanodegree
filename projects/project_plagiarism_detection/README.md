@@ -58,12 +58,12 @@ The project directory contains code and associated files for deploying a plagiar
 
 # Run
 
-To open the .ipynb files in your browser, run the following command in terminal:
+To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project directory `project_plagiarism_detection`:
 ```
 jupyter notebook <file_name>.ipynb
 ```
 
-To run and execute all the cells in the .ipynb files, set up a Notebook instance in the Amazon Sagemaker service and link the instance directly to the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git).
+To run and execute all the cells from scratch, you need to create a Jupyter notebook instance in the Amazon Sagemaker service, configure the lifecycle of the notebook, and attache the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git) to the instance. 
 
 # Results
 
