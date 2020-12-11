@@ -21,12 +21,12 @@ The notebook and Python files are provided in the project directory to get start
 
 # Run
 
-To open the .ipynb files in your browser, run the following command in terminal:
+To open the .ipynb files in your browser and look at the output of the completed cells, use the following command in your terminal after changing the working directory to the project directory `project_sentiment_analysis`:
 ```
 jupyter notebook <file_name>.ipynb
 ```
 
-To run and execute all the cells in the .ipynb files, set up a Notebook instance in the Amazon Sagemaker service and link the instance directly to the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git). 
+To run and execute all the cells from scratch, you need to create a Jupyter notebook instance in the Amazon Sagemaker service, configure the lifecycle of the notebook, and attache the [Github repository](https://github.com/wchowdhu/udacity-ml-engineer-nanodegree.git) to the instance. 
 
 To deploy the model and make the web app interact with the deployed model, you need to implement SageMaker's additional functionalities like Amazon Lambda and API Gateway. The structure for the web app is provided in the diagram `Web App Diagram.svg`.
 
