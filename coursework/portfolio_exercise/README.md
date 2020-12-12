@@ -20,7 +20,7 @@ pip install twine
 twine upload dist/*
 pip install wchowdhu_distributions_v2
 ```
-*Note: The name of the package should be unique, as wchowdhu_distributions_v2 already exists in the PyPi repository, change the name of the package to something else before running the above commands on the command line. That also means changing the information in setup.py and the folder name.*
+*Note: The name of the package should be unique, as `wchowdhu_distributions_v2` already exists in the PyPi repository, change the name of the package to something else before running the above commands on the command line. That also means changing the information in `setup.py` and the folder name.*
 
 ##### To import the package:
 Since the package is already uploaded to the PyPi repository, simply import and use the package using following commands:
