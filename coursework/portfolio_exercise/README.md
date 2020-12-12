@@ -33,7 +33,7 @@ Then start the Python interpreter from the terminal typing:
 python
 ```
 
-Then within the Python interpreter, use the package:
+Then within the Python interpreter, you can use the package:
 ```
 from wchowdhu_distributions_v2 import Gaussian
 gaussian_one = Gaussian(25, 2)
