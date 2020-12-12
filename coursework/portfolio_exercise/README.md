@@ -6,7 +6,7 @@ Create a custom Python package to compute the Gaussian and Binomial distribution
 * A folder called `wchowdhu_distributions_v2` which is the name of the Python package
 
 # Install
-The package requires Python 3.6 and the following Python libraries installed   
+This exercise requires Python 3.6 and the following Python libraries installed   
   - [matplotlib](https://matplotlib.org/)
 
 # Run
