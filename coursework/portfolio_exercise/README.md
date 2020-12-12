@@ -2,7 +2,7 @@
 
 Create a custom Python package to compute the Gaussian and Binomial distributions and upload it to [Pypi](https://pypi.org/). The repo contains:
 
-* A setup.py file, which is required in order to `pip install` the package
+* A `setup.py` file, which is required in order to `pip install` the package
 * A folder called `wchowdhu_distributions_v2` which is the name of the Python package
 
 # Install
