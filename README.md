@@ -1,4 +1,4 @@
-![]{images/verified_certificate.png}
+<img src="images/verified_certificate.png">
 
 
 # About
