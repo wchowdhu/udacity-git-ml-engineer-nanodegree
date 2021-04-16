@@ -14,7 +14,7 @@ Project work from the Udacity [Machine Learning Engineer](https://www.udacity.co
 
   - [Sentiment Analysis Web App](https://github.com/wchowdhu/udacity-git-ml-engineer-nanodegree/tree/master/projects/project_sentiment_analysis)
   - [Plagiarism Detection](https://github.com/wchowdhu/udacity-git-ml-engineer-nanodegree/tree/master/projects/project_plagiarism_detection)
-  - [Capstone Project](url)
+  - [Capstone Project](https://github.com/wchowdhu/udacity-capstone-project)
 
 # Coursework
 
