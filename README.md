@@ -1,6 +1,5 @@
 <img src="images/verified_certificate.png">
 
-
 # About
 
 Project work from the Udacity [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) Nanodegree 2020 encompassing advanced machine learning algorithms and how to package and deploy models to a production environment. 
