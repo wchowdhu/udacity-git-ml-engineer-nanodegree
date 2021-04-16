@@ -1,4 +1,4 @@
-![certificate]{verified_certificate.pdf}
+![]{verified_certificate.pdf}
 
 
 # About
